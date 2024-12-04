@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CDSOD323_T05S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "CDSOD323-T05S" (!) = "", "SOD2513X114N", "Small Outline Diode", "652-CDSOD323-T05S", "https://www.mouser.co.uk/ProductDetail/Bourns/CDSOD323-T05S?qs=6S5Watp5UnKwEEYVMBfMmA%3D%3D", "CDSOD323-T05S", "https://www.arrow.com/en/products/cdsod323-t05s/bourns?region=nac", "BOURNS - CDSOD323-T05S - DIODE, TVS, UNID. 5V, 1PF, SOD-323", "http://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxSC.pdf", "1.14 mm"
+END_PART
+
+END.

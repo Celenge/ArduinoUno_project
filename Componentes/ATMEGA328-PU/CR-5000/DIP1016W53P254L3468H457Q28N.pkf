@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DIP1016W53P254L3468H457Q28N"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DIP1016W53P254L3468H457Q28N")
+        (spec "default")
+    )
+)

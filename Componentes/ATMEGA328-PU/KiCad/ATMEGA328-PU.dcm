@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA328-PU
+D 8-bit Microcontrollers - MCU AVR 32K FLSH 1K EE2K SRAM-20MHz IND
+K
+F https://componentsearchengine.com/Datasheets/1/ATMEGA328-PU.pdf
+$ENDCMP
+#
+#End Doc Library

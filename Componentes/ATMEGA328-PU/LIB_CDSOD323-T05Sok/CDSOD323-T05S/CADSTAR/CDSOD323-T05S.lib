@@ -1,0 +1,18 @@
+.CDSOD323-T05S :1 ;BOURNS - CDSOD323-T05S - DIODE, TVS, UNID. 5V, 1PF, SOD-323
+SOD2513X114N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN CDSOD323-T05S
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (CDSOD323-T05S)
+~!Mouser Part Number (652-CDSOD323-T05S)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/CDSOD323-T05S?qs=6S5Watp5UnKwEEYVMBfMmA%3D%3D)
+~!Arrow Part Number (CDSOD323-T05S)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/cdsod323-t05s/bourns?region=nac)
+~!Link Datasheet (http://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxSC.pdf)
+~!Height (1.14mm)
+~!3D_Model (CDSOD323-T05S)
+CDSOD323-T05S
+1.1!U 2.1!U 

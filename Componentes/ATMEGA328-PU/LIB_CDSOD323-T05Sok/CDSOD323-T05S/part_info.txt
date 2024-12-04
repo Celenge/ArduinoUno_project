@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CDSOD323-T05S
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Small Outline Diode
+PinCount=2
+Version=4.1
+Released=2017-10-06 02:38:37
+Downloaded=2024-12-04 13:06:59
+3D=Y

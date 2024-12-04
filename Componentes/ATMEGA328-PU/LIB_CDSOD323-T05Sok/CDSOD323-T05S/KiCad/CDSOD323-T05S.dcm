@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDSOD323-T05S
+D BOURNS - CDSOD323-T05S - DIODE, TVS, UNID. 5V, 1PF, SOD-323
+K
+F http://www.bourns.com/docs/Product-Datasheets/CDSOD323-TxxSC.pdf
+$ENDCMP
+#
+#End Doc Library
