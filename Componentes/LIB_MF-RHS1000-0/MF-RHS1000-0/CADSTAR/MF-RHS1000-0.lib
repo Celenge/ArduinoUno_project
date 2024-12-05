@@ -1,0 +1,16 @@
+.MF-RHS1000-0 :1 ;PTC 10.0A 16V RADIAL LEADED HI-TEMP
+MFRHS10000
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MF-RHS1000-0
+~!Mouser Part Number (652-MF-RHS1000-0)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/MF-RHS1000-0?qs=mELouGlnn3f3cOBjSincOA%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (MF-RHS1000-0)
+~!Link Datasheet (-)
+~!Height (27.9mm)
+~!3D_Model (MF-RHS1000-0)
+MF-RHS1000-0
+1.1!U 2.1!U 

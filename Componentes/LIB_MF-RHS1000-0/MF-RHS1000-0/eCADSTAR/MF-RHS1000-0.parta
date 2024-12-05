@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_18912156"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-02-11:47:55)
+    (utime 2024-01-02-11:47:55)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "MF-RHS1000-0")
+)
+
+
+(pinAssign "ECS_18912156"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-02-11:47:55)
+    (utime 2024-01-02-11:47:55)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18912156")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MF-RHS1000-0")
+)
+
+
+(part "MF-RHS1000-0"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-02-11:47:55)
+    (utime 2024-01-02-11:47:55)
+    (packageRef "MF-RHS1000-0")
+    (pinAssignRef "ECS_18912156")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "F")
+    (property "description" "PTC 10.0A 16V RADIAL LEADED HI-TEMP")
+    (property "Mouser_Part_Number" "652-MF-RHS1000-0")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/MF-RHS1000-0?qs=mELouGlnn3f3cOBjSincOA%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "MF-RHS1000-0")
+    (property "Datasheet_Link" "")
+    (property "compAreaTopHeight" 27.9)
+)
+
+

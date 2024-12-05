@@ -1,0 +1,9 @@
+Manufacturer=KOA Speer
+PartNumber=MFS1/4CC1001F
+PartCategory=Resistor
+PackageCategory=Resistors, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=1.1
+Released=2022-03-26 09:02:17
+Downloaded=2024-12-04 21:36:01
+3D=Y

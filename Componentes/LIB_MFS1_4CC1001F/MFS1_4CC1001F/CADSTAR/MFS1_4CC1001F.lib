@@ -1,0 +1,16 @@
+.MFS1_4CC1001F :1 ;KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C
+RESAD1075W45L335D185
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MFS1_4CC1001F
+~!Mouser Part Number (660-MFS1/4CC1001F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KOA-Speer/MFS1-4CC1001F?qs=W1HJaynCbQwggh46CLL3yw%3D%3D)
+~!Manufacturer_Name (KOA Speer)
+~!Manufacturer_Part_Number (MFS1/4CC1001F)
+~!Link Datasheet (https://www.koaspeer.com/catimages/Products/MF-MFS-RK/MF-MFS-RK.pdf)
+~!Height (-)
+~!3D_Model (MFS1_4CC1001F)
+MFS1_4CC1001F
+1.1!U 2.1!U 

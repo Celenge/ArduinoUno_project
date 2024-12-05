@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MF-RHS1000-0"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-02-11:47:55)
+    (mountForm default
+        (footprintRef "MFRHS10000")
+        (spec "System")
+    )
+)

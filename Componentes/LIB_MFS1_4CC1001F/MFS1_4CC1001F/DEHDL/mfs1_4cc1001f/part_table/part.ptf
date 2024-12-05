@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MFS1_4CC1001F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "KOA Speer", "MFS1/4CC1001F" (!) = "", "RESAD1075W45L335D185", "Resistors, Axial Diameter Horizontal Mounting", "660-MFS1/4CC1001F", "https://www.mouser.co.uk/ProductDetail/KOA-Speer/MFS1-4CC1001F?qs=W1HJaynCbQwggh46CLL3yw%3D%3D", "KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C", "https://www.koaspeer.com/catimages/Products/MF-MFS-RK/MF-MFS-RK.pdf"
+END_PART
+
+END.

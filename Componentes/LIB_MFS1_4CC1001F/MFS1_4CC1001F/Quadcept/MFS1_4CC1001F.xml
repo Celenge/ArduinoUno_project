@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/999947/1064998/2.50/2/3/Resistor/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c105_h65" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="25.590551181102">
+    <padshape layer="TOP" shape="round" width="41.338582677165" height="41.338582677165" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="49.212598425196" height="49.212598425196" />
+    <padshape layer="INNER" shape="round" width="41.338582677165" height="41.338582677165" />
+    <padshape layer="BOTTOM" shape="round" width="41.338582677165" height="41.338582677165" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="49.212598425196" height="49.212598425196" />
+  </padstyle>
+  <footprint name="RESAD1075W45L335D185" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="c105_h65" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c105_h65" originx="425.1968503937" originy="0" rotation="90" />
+    <line layer="TOP_PLACE_BOUND" originx="-30.511811023622" originy="50.1968503937" endx="455.70866141732" endy="50.1968503937" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="455.70866141732" originy="50.1968503937" endx="455.70866141732" endy="-50.1968503937" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="455.70866141732" originy="-50.1968503937" endx="-30.511811023622" endy="-50.1968503937" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="-30.511811023622" originy="-50.1968503937" endx="-30.511811023622" endy="50.1968503937" width="1.9685039370079" />
+    <line layer="TOP_ASSEMBLY" originx="146.65354330708" originy="36.417322834645" endx="278.54330708661" endy="36.417322834645" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="278.54330708661" originy="36.417322834645" endx="278.54330708661" endy="-36.417322834645" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="278.54330708661" originy="-36.417322834645" endx="146.65354330708" endy="-36.417322834645" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="146.65354330708" originy="-36.417322834645" endx="146.65354330708" endy="36.417322834645" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="0" originy="0" endx="146.65354330708" endy="0" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="278.54330708661" originy="0" endx="425.1968503937" endy="0" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="146.65354330708" originy="36.417322834645" endx="278.54330708661" endy="36.417322834645" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="278.54330708661" originy="36.417322834645" endx="278.54330708661" endy="-36.417322834645" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="278.54330708661" originy="-36.417322834645" endx="146.65354330708" endy="-36.417322834645" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="146.65354330708" originy="-36.417322834645" endx="146.65354330708" endy="36.417322834645" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="34.448818897637" originy="0" endx="146.65354330708" endy="0" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="278.54330708661" originy="0" endx="390.74803149606" endy="0" width="7.8740157480314" />
+  </footprint>
+  <symbol name="MFS1_4CC1001F" originx="0" originy="0">
+    <line originx="200" originy="50" endx="500" endy="50" width="0" />
+    <line originx="500" originy="-50" endx="500" endy="50" width="0" />
+    <line originx="500" originy="-50" endx="200" endy="-50" width="0" />
+    <line originx="200" originy="50" endx="200" endy="-50" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="0" originy="-10" style="Default" rotation="0" justify="upperleft" flipped="False" hidden="True" data="1" />
+      <text name="pindes" originx="0" originy="10" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="500" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="700" originy="-10" style="Default" rotation="0" justify="upperright" flipped="False" hidden="True" data="2" />
+      <text name="pindes" originx="700" originy="10" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+  </symbol>
+  <component name="MFS1_4CC1001F" designatorprefix="R" height="0" footprint="RESAD1075W45L335D185">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <attached_symbol gate="1" name="MFS1_4CC1001F" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.koaspeer.com/catimages/Products/MF-MFS-RK/MF-MFS-RK.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="660-MFS1/4CC1001F" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/KOA-Speer/MFS1-4CC1001F?qs=W1HJaynCbQwggh46CLL3yw%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="KOA Speer" />
+    <text name="Manufacturer_Part_Number" originx="550" originy="150" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="MFS1/4CC1001F" />
+  </component>
+</quadcept_library>

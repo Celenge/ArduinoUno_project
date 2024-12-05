@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MFS1_4CC1001F
+D KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C
+K
+F https://www.koaspeer.com/catimages/Products/MF-MFS-RK/MF-MFS-RK.pdf
+$ENDCMP
+#
+#End Doc Library

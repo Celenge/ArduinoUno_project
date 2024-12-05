@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_234809"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-16:35:06)
+    (utime 2024-11-15-13:35:08)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "1N914")
+)
+
+
+(pinAssign "ECS_234809"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-16:35:06)
+    (utime 2024-11-15-13:35:08)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_234809")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "1N914")
+)
+
+
+(part "1N914"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-01-11-16:35:06)
+    (utime 2024-11-15-13:35:08)
+    (packageRef "1N914")
+    (pinAssignRef "ECS_234809")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Small Signal Diode")
+    (property "Mouser_Part_Number" "512-1N914")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/1N914?qs=NSEUUqpg2uCfNuQFcxVZsA%3D%3D")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "1N914")
+    (property "Datasheet_Link" "https://www.onsemi.com/pub/Collateral/1N914-D.PDF")
+)
+
+

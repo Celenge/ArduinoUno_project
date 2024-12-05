@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=1N914
+PartCategory=Diode
+PackageCategory=Diodes, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=3.1
+Released=2017-01-11 16:35:06
+Downloaded=2024-12-05 17:58:10
+3D=Y

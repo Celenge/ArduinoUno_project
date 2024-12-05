@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N914
+D Small Signal Diode
+K
+F https://www.onsemi.com/pub/Collateral/1N914-D.PDF
+$ENDCMP
+#
+#End Doc Library

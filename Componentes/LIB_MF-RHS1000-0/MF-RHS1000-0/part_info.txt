@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=MF-RHS1000-0
+PartCategory=Resettable Fuse
+PackageCategory=Other
+PinCount=2
+Version=2.3
+Released=2024-01-02 11:47:55
+Downloaded=2024-12-05 19:30:14
+3D=Y

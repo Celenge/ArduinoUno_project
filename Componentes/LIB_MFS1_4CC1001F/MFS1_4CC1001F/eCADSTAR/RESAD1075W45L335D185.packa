@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MFS1_4CC1001F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-26-09:02:17)
+    (mountForm default
+        (footprintRef "RESAD1075W45L335D185")
+        (spec "System")
+    )
+)

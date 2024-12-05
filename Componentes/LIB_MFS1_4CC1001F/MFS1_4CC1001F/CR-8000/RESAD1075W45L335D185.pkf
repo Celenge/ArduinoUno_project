@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RESAD1075W45L335D185"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RESAD1075W45L335D185")
+        (spec "default")
+    )
+)

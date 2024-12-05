@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1N914'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "onsemi", "1N914" (!) = "", "DIOAD1068W53L380D172", "Diodes, Axial Diameter Horizontal Mounting", "512-1N914", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/1N914?qs=NSEUUqpg2uCfNuQFcxVZsA%3D%3D", "Small Signal Diode", "https://www.onsemi.com/pub/Collateral/1N914-D.PDF"
+END_PART
+
+END.
