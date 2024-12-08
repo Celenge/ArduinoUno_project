@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for ArduinoUno_project
 LogFolderPath=
 ManagedProjectGUID=FF85DA37-7CC3-42BD-B2A5-AA8E1D51C43A
 VaultGUID=21EE542D-548A-4EFE-B624-BA95FC9E8D39
@@ -107,6 +107,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLSBFLKP
 
+[Document5]
+DocumentPath=ArduinoUno_project.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -116,6 +133,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for ArduinoUno_project
 
 [OutputGroup1]
 Name=Netlist Outputs
