@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FDN340P'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "FDN340P" (!) = "", "SOT95P237X112-3N", "SOT23 (3-Pin)", "512-FDN340P", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDN340P?qs=AMp2PTjoga9dhzFXRaqTZw%3D%3D", "Trans MOSFET P-CH 20V 2A 3-Pin SuperSOT", "https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF", "1.12 mm"
+END_PART
+
+END.

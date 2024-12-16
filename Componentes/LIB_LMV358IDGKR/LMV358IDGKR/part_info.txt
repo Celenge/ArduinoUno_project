@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMV358IDGKR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=4.1
+Released=2021-02-23 05:29:23
+Downloaded=2024-12-16 20:23:57
+3D=Y

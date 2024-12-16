@@ -1,0 +1,16 @@
+.FDN340P :1 ;Trans MOSFET P-CH 20V 2A 3-Pin SuperSOT
+SOT95P237X112-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN FDN340P
+~!Mouser Part Number (512-FDN340P)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDN340P?qs=AMp2PTjoga9dhzFXRaqTZw%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (FDN340P)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/FDN340P-D.PDF)
+~!Height (1.12mm)
+~!3D_Model (FDN340P)
+FDN340P
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,16 @@
+.LP2985-33DBVT :1 ;150-mA LOW-NOISE LOW-DROPOUT REGULATOR WITH SHUTDOWN
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="ON/'OFF'" 4="BYPASS" 5="VOUT"
+*MXP 5
+*DFN LP2985-33DBVT
+~!Mouser Part Number (595-LP2985-33DBVT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP2985-33DBVT?qs=paYhMW8qfivCywxvLCGbYQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LP2985-33DBVT)
+~!Link Datasheet (http://www.ti.com/lit/gpn/lp2985)
+~!Height (1.45mm)
+~!3D_Model (LP2985-33DBVT)
+LP2985-33DBVT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

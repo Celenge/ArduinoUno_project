@@ -1,0 +1,16 @@
+.LMV358IDGKR :1 ;OP Amp Dual GP R-R O/P 5.5V 8-Pin MSOP Texas Instruments LMV358IDGKR, Dual Op Amp, 1MHz CMOS, Rail to Rail, 3 V, 5 V, 8-Pin MSOP
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="1IN-" 3="1IN+" 4="GND" 5="2IN+" 6="2IN-" 7="2OUT" 8="VCC+"
+*MXP 8
+*DFN LMV358IDGKR
+~!Mouser Part Number (595-LMV358IDGKR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMV358IDGKR?qs=rgxfVHSNRPXxzk3brtXqQw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMV358IDGKR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/lmv358.pdf)
+~!Height (1.1mm)
+~!3D_Model (LMV358IDGKR)
+LMV358IDGKR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

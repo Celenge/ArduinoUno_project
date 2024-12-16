@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LP2985_33DBVT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LP2985-33DBVT" (!) = "", "SOT95P280X145-5N", "SOT23 (5-Pin)", "595-LP2985-33DBVT", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LP2985-33DBVT?qs=paYhMW8qfivCywxvLCGbYQ%3D%3D", "150-mA LOW-NOISE LOW-DROPOUT REGULATOR WITH SHUTDOWN", "http://www.ti.com/lit/gpn/lp2985", "1.45 mm"
+END_PART
+
+END.
