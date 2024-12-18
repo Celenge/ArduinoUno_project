@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ArduinoUno_project.PcbDoc   17/12/2024  21:30:45
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ArduinoUno_project-RoundHoles.TXT
+ASCII SlotHoles File : ArduinoUno_project-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             2         PTH        12.44mm (0.49inch)
+T2      0.4mm (16mil)                                             Round             21        PTH        231.14mm (9.10inch)
+T3      0.65mm (26mil)                                            Round             20        PTH        191.69mm (7.55inch)
+T4      0.65mm (26mil)                                            Slot              2         PTH        9.30mm (0.37inch)
+T5      0.733mm (29mil)                                           Round             28        PTH        96.52mm (3.80inch)
+T6      0.75mm (30mil)                                            Round             6         PTH        128.85mm (5.07inch)
+T7      0.762mm (30mil)                                           Round             12        PTH        50.01mm (1.97inch)
+T8      0.825mm (32mil)                                           Slot              2         PTH        17.73mm (0.70inch)
+T9      0.9mm (35mil)                                             Round             16        PTH        63.49mm (2.50inch)
+T10     0.91mm (36mil)                                            Round             6         PTH        37.70mm (1.48inch)
+T11     0.95mm (37mil)                                            Round             16        PTH        40.34mm (1.59inch)
+T12     1mm (39mil)                                               Round             2         PTH        9.02mm (0.36inch)
+T13     1.2mm (47mil)                                             Round             2         PTH        10.20mm (0.40inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              135
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+C:\Users\camil\OneDrive\Área de Trabalho\GitHub\ArduinoUno_project\ArduinoUno_project\.\Generate Files\Pick Place\ArduinoUno_project.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/12/24
+Time:       21:30
+Revision:   d814a8069a64290cc1432c995a3ed37fae232aee
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P3","8P","TopLayer","RHDR8W76P0X254_1X8_2032X356X673P","74.5905","118.1720","360","Connector Socket Strip RCP 8 POS 2.54mm Solder ST Thru-Hole Gang of Tubes"
+"P1","8P","TopLayer","RHDR8W76P0X254_1X8_2032X356X673P","97.1540","118.1720","180","Connector Socket Strip RCP 8 POS 2.54mm Solder ST Thru-Hole Gang of Tubes"
+"C12","47uF","TopLayer","CAPAE660X565N","32.8600","105.4700","180","Cap Aluminum 47uF 25V 20% (6.3 X 5.4mm) SMD 70mA 2000 hr 85°C T/R -    PN Alternativo : EDK476M025A9GAA"
+"C11","47uF","TopLayer","CAPAE660X565N","32.8100","113.2100","180","Cap Aluminum 47uF 25V 20% (6.3 X 5.4mm) SMD 70mA 2000 hr 85°C T/R -    PN Alternativo : EDK476M025A9GAA"
+"Y2","ATS16B","TopLayer","ATS16B","70.6900","104.1200","360","Crystal or Oscillator"
+"Y1","ATS16B","TopLayer","ATS16B","57.8200","94.1600","360","Crystal or Oscillator"
+"VIN","Function","TopLayer","Pin_-_1","31.2420","122.5550","0",""
+"U1","ATMEGA16U2-AU","TopLayer","QFP80P900X900X120-32N","55.9800","81.8100","270","AVR AVRÂ® ATmega Microcontroller IC 8-Bit 16MHz 16KB (8K x 16) FLASH 32-TQFP (7x7)"
+"R12","1k","TopLayer","RESAD1075W45L335D185","49.5100","118.5900","180","KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C"
+"R11","10k","TopLayer","RC0603","39.7400","98.7100","90","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric)  Thick Film"
+"R10","10k","TopLayer","RC0603","38.0700","98.7100","270","10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric)  Thick Film"
+"R9","1k","TopLayer","RESAD1075W45L335D185","43.3800","91.0500","180","KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C"
+"R8","1k","TopLayer","RESAD1075W45L335D185","43.3800","94.0100","180","KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C"
+"R7","1k","TopLayer","RESAD1075W45L335D185","83.7700","105.9700","360","KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C"
+"R6","1k","TopLayer","RESAD1075W45L335D185","34.2900","71.7600","90","KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C"
+"R5","1k","TopLayer","RESAD1075W45L335D185","83.7000","102.5800","360","KOA Axial Metal Film Resistor 1k +/-1% 0.25W +/-50ppm/C"
+"R4","10k","TopLayer","RESAD1075W45L335D185","37.0775","71.7600","270","Fixed Resistor, Metal Film, 0.25W, 10000ohm, 250V, 1% +/-Tol, 50ppm/Cel, Through Hole Mount"
+"R3","10k","TopLayer","RESAD1075W45L335D185","97.3900","105.9700","360","Fixed Resistor, Metal Film, 0.25W, 10000ohm, 250V, 1% +/-Tol, 50ppm/Cel, Through Hole Mount"
+"R2","22R","TopLayer","R0805","32.4600","81.8500","270","Thick Film Resistors - SMD 22ohms 1% 100ppm"
+"R1","22R","TopLayer","R0805","34.8700","81.7600","270","Thick Film Resistors - SMD 22ohms 1% 100ppm"
+"Q1","FDN340P","TopLayer","SOT95P237X112-3N","45.1600","104.7300","90","Trans MOSFET P-CH 20V 2A 3-Pin SuperSOT"
+"P4","6P","TopLayer","TE_215299-6","99.1640","67.1710","180",""
+"P2","1-215297-0","TopLayer","TE_1-215297-0","77.5800","67.0600","180","10P HV100 REC CON. TE, 7.0MM"
+"J3","TD-103-G-A","TopLayer","SAMTEC_TD-103-G-A","78.5100","80.7900","360","Connecteur Embase Trou traversant 6 positions 0,100po (2,54mm)"
+"J2","TD-103-G-A","TopLayer","SAMTEC_TD-103-G-A","49.1900","73.9900","360","Connecteur Embase Trou traversant 6 positions 0,100po (2,54mm)"
+"J1","ZX62RD-AB-5P8(30)","TopLayer","FP-ZX62RD-AB-5P8_30-MFG","29.7125","89.4500","270","CONN RCPT USB2.0 MICRO AB SMD RA"
+"GND","Function","TopLayer","Pin_-_1","40.2590","122.3010","0",""
+"FB1","1 kOhms @ 100MHz","TopLayer","BLM21","33.9844","94.1600","180","MURATA - BLM21AG102SN1D - Ferritperle, 0805 [Metrisch 2012], 1 kohm, 500 mA, Baureihe BLM21A, 0.28 ohm, ± 25%
+PN Alternativo: BLM21BD102SN1D"
+"f1","PPTC","TopLayer","MFRHS10000","28.5600","74.2900","90","PTC 10.0A 16V RADIAL LEADED HI-TEMP"
+"D8","1N914","TopLayer","DIOAD1068W53L380D172","35.1630","118.6550","180","Small Signal Diode"
+"D7","TLHG5420-ASZ","TopLayer","TLHG5420ASZ","51.9300","113.0300","270","Standard LEDs - Through Hole 5MM LED GREEN TINT. DIFFused with Standoff"
+"D6","TLHG5420-ASZ","TopLayer","TLHG5420ASZ","39.9400","86.2000","360","Standard LEDs - Through Hole 5MM LED GREEN TINT. DIFFused with Standoff"
+"D5","TLHG5420-ASZ","TopLayer","TLHG5420ASZ","46.6900","86.2000","360","Standard LEDs - Through Hole 5MM LED GREEN TINT. DIFFused with Standoff"
+"D4","1N914","TopLayer","DIOAD1068W53L380D172","39.9300","71.7600","90","Small Signal Diode"
+"D3","1N914","TopLayer","DIOAD1068W53L380D172","97.3900","102.5150","180","Small Signal Diode"
+"D2","CDSOD323-T05S","TopLayer","SOD2513X114N","33.5200","86.3700","90","TVS Diode (Uni-directional)"
+"D1","CDSOD323-T05S","TopLayer","SOD2513X114N","33.5200","90.8000","270","TVS Diode (Uni-directional)"
+"C13","100nF","TopLayer","C0805","30.1800","99.4300","270","Cap Ceramic 0.1uF 25V X7R 20% SMD 0805 125°C Paper T/R"
+"C10","100nF","TopLayer","C0805","32.7150","99.4300","90","Cap Ceramic 0.1uF 25V X7R 20% SMD 0805 125°C Paper T/R"
+"C9","1uF","TopLayer","C0805","35.2500","99.4300","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 25V 1uF X7R 0805 20%"
+"C8","22pF","TopLayer","C0402","72.4900","100.2700","180","CAP CER 22PF 50V C0G/NP0 0402"
+"C7","22pF","TopLayer","C0402","75.0200","100.3900","180","CAP CER 22PF 50V C0G/NP0 0402"
+"C6","22pF","TopLayer","C0402","57.1400","89.9400","180","CAP CER 22PF 50V C0G/NP0 0402"
+"C5","22pF","TopLayer","C0402","59.2300","89.9300","180","CAP CER 22PF 50V C0G/NP0 0402"
+"C4","100nF","TopLayer","C0805","49.3800","81.8900","90","Cap Ceramic 0.1uF 25V X7R 20% SMD 0805 125°C Paper T/R"
+"C3","1uF","TopLayer","C0805","62.5000","78.7500","270","Multilayer Ceramic Capacitors MLCC - SMD/SMT 25V 1uF X7R 0805 20%"
+"C2","100nF","TopLayer","C0805","53.6100","105.4600","90","Cap Ceramic 0.1uF 25V X7R 20% SMD 0805 125°C Paper T/R"
+"C1","100nF","TopLayer","C0805","50.6500","105.4908","90","Cap Ceramic 0.1uF 25V X7R 20% SMD 0805 125°C Paper T/R"
+"B4","NCP1117ST50T3G","TopLayer","SOT230P700X180-4N","42.3900","112.7500","270","ON SEMICONDUCTOR - NCP1117ST50T3G - LDO, REG, 20VIN, 1A, 5V, 1%, SOT223-3"
+"B3","LMV358IDGKR","TopLayer","SOP65P490X110-8N","44.6800","98.7300","360","OP Amp Dual GP R-R O/P 5.5V 8-Pin MSOP Texas Instruments LMV358IDGKR, Dual Op Amp, 1MHz CMOS, Rail to Rail, 3 V, 5 V, 8-Pin MSOP"
+"B2","LP2985-33DBVT","TopLayer","SOT95P280X145-5N","40.8800","104.6600","270","150-mA LOW-NOISE LOW-DROPOUT REGULATOR WITH SHUTDOWN"
+"U2","ATMEGA328-PU","TopLayer","DIP1016W53P254L3468H457Q28N","82.2300","91.8700","270","8-bit Microcontrollers - MCU AVR 32K FLSH 1K EE2K SRAM-20MHz IND"
